@@ -1,2 +1,3 @@
 # Trabalho Unidade 2 - POO
- Trabalho refrente à unidade 2
+
+O projeto prático consistiu no desenvolvimento de um programa em Java chamado “ContadorPin”, estruturado para percorrer uma sequência numérica de 1 a 30. Durante a iteração, aplicou-se uma condição lógica utilizando a operação de módulo (i % 3 == 0), para que todos os múltiplos de 3 fossem substituídos pela palavra "pin", enquanto os demais números fossem exibidos normalmente. A implementação dessa mesma lógica em três estruturas distintas evidencia a equivalência funcional dos laços e a importância da escolha adequada ao contexto de uso.
